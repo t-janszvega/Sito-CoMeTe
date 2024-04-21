@@ -1,0 +1,18 @@
+//testo per pagina principale
+Fisioterapia: La fisioterapia è una branca della medicina, con scopo preventivo, curativo e riabilitativo. Permette il recupero di funzionalità motorie nei pazienti affetti da patologie o disfunzioni in ambito muscoloscheletrico, neurologico e viscerale, utilizzando mezzi fisici come la ginnastica o il massaggio.
+Osteopatia: L’osteopatia è una disciplina che considera l’organismo umano nella sua interezza e unicità, basandosi sulle leggi dell’anatomia, della biomeccanica e della fisiologia tradizionali. Attraverso l’uso di tecniche esclusivamente manuali, di cui fanno parte le tecniche di Structural Restrain e di Visceral Restrain, l’osteopatia va ad agire sulle articolazioni e sui tessuti del corpo con lo scopo di ripristinare le funzioni che in quel momento l’organismo ha perso.
+Hatha Yoga: Lo Hatha Yoga è una forma di Yoga basato su una serie di esercizi psicofisici, originati nelle scuole iniziatiche dell'India e del Tibet. Insegna a dominare l'energia cosmica presente nell'essere umano, manifesta come respiro, e quindi a conseguire un sicuro controllo della cosa più instabile e mobile che si possa immaginare, ossia la mente, sempre irrequieta, sempre pronta a distrarsi e a divagare.
+Psicoterapia: La psicologia è la scienza che studia gli stati mentali e i processi emotivi, cognitivi, sociali e comportamentali nelle loro componenti consce e inconsce, mediante l'uso del metodo scientifico e/o appoggiandosi ad una prospettiva soggettiva intrapersonale; si occupa anche dello studio e del trattamento delle funzioni psichiche sia in condizioni di benessere che di sofferenza o disagio mentale, dovute a dinamiche soggettive (intrapsichiche), ambientali e/o relazionali (interpsichiche).
+
+//testo descrizione centro
+1-CoMeTe nasce come centro di PROMOZIONE e CURA DELLA SALUTE e DEL BENESSERE delle persone di qualsiasi età e in qualsiasi tappa del proprio cammino evolutivo come essere umano.
+2-É stato pensato e fortemente voluto da Davide, Sara, Marianna e Alessio rispettivamente due fisioterapisti, una psicologa e psicoterapeuta e un osteopata fisioterapista.
+3-Il team poi si è arricchito via via di diverse professionalità che hanno in comune la CENTRALITÀ del PAZIENTE e che si adoperano a costruire, accompagnare e individuare insieme a lui le migliori soluzioni e traiettorie per stare meglio, vivere serenamente in omeostasi corporea, mentale e spirituale. 
+4-La nostra formazione è costante e continua, spesso ci sentiamo per corsi di formazione e invitiamo formatori direttamente nel nostro spazio.
+5-Abbiamo una visione in chiave RIABILITATIVA ma anche OLISTICA, spesso il nostro studio ospita proposte di trattamento e corsi che abbracciano la medicina cinese, lo yoga, l'ayurveda, lo shatzu e il pranic healing perche il benessere è composto da tanti piccoli pezzettini e, come in un puzzle, accompagnamo ciascuno a comporre il proprio.
+6-Abbiamo un occhio speciale per le proposte dedicate ai più piccoli e ai loro genitori: sia di prevenzione e cura sia di neuropsicomotricità, socializzazione e divertimento. 
+7-Crediamo fortemente che patologie, disturbi fisici e mentali vadano innanzitutto PREVENUTI e le nostre proposte partano spesso da questa visione.
+8-Settimanalmente a CoMeTe si medita, per offrire anche uno spazio in cui coltivare insieme serenità.
+
+link form contatti: https://us18.list-manage.com/contact-form?u=0803a9abb20674d86f4fe73a3&form_id=a8216c2a273f2823542573060c9a7510
+
